@@ -10,7 +10,7 @@
     text-align: center;
     
 }
-.calculdora{
+.Calculdora{
     position: absolute;
     background-color: right(222,219,219,0.7);
     top: 50%;
@@ -32,10 +32,14 @@
 }
 .botao:hover{
     background-color: white;
-    width: 270px;
-    height: 207px;
-    margin: 5px;
     color: black;
-    text-align: right;
-    padding: 5px;
+    }
+    #resultado{
+        background-color: white;
+        width: 207px;
+        height: 207px;
+        margin: 5px;
+        color: black;
+        text-align: right;
+        padding: 5px;
     }
