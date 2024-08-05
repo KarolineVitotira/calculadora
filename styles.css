@@ -3,7 +3,7 @@
  padding: 0;
 }
 .fundo{
-    background-image:linear-gradient(45deg,grey,black);
+    background-image: linear-gradient(45deg,grey,black);
     height: 100vh; 
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -12,7 +12,7 @@
 }
 .Calculdora{
     position: absolute;
-    background-color: right(222,219,219,0.7);
+    background-color: rgba(222,219,219,0.7);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -37,7 +37,7 @@
     #resultado{
         background-color: white;
         width: 207px;
-        height: 207px;
+        height: 30px;
         margin: 5px;
         color: black;
         text-align: right;
